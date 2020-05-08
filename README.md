@@ -1,0 +1,1 @@
+"# Genome-Sequence-DNA-SchistmosomaMansoni-Malayi-Chlamydia-Virus"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/dhilataha/Genome-Sequence-DNA-SchistmosomaMansoni-Malayi-Chlamydia-Virus.git git push -u origin master                 
